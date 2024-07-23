@@ -30,7 +30,7 @@ public class VendingMashine {
     @Override
     public String toString() {
         StringBuilder stringBuilder = new StringBuilder(); // StringBuilder - используется, так как работа в цикле и неизвестно заранее количество итераций
-        stringBuilder.append("Список прождуктов:\n");
+        stringBuilder.append("Список продуктов:\n");
         for (Product product : products) { // создать ForEach - product.iter
             stringBuilder.append(product);
             stringBuilder.append("\n");
