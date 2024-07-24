@@ -15,8 +15,7 @@
 # **Объектно-ориентированное программирование (семинары):**
 
 1. [Урок 1. Принципы ООП: Инкапсуляция, наследование, полиморфизм](https://github.com/olgashenkel/OOP_course/tree/main/Seminar/Seminar_1/VendingMachine/src)
-
-* [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
+   * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
 <!--    2. [Урок 2. Принципы ООП Абстракция и интерфейсы. Пример проектирования]()
    * [Домашнее задание]()
 3. [Урок 3. Некоторые стандартные интерфейсы Java и примеры их использования]()
