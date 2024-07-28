@@ -1,0 +1,15 @@
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\bin\Debug\net8.0\OOP_elective.exe
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\bin\Debug\net8.0\OOP_elective.deps.json
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\bin\Debug\net8.0\OOP_elective.runtimeconfig.json
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\bin\Debug\net8.0\OOP_elective.dll
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\bin\Debug\net8.0\OOP_elective.pdb
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\OOP_elective.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\OOP_elective.AssemblyInfoInputs.cache
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\OOP_elective.AssemblyInfo.cs
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\OOP_elective.csproj.CoreCompileInputs.cache
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\OOP_elective.sourcelink.json
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\OOP_elective.dll
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\refint\OOP_elective.dll
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\OOP_elective.pdb
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\OOP_elective.genruntimeconfig.cache
+C:\Users\olga_\Рабочий стол\OOP_course\Elective\OOP_elective\obj\Debug\net8.0\ref\OOP_elective.dll

@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|c:\\users\\olga_\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop_course\\elective\\oop_elective\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|c:\\users\\olga_\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop_course\\elective\\oop_elective\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|solutionrelative:snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|c:\\users\\olga_\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop_course\\elective\\oop_elective\\mypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|solutionrelative:mypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|c:\\users\\olga_\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop_course\\elective\\oop_elective\\horizontalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|solutionrelative:horizontalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|c:\\users\\olga_\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop_course\\elective\\oop_elective\\verticalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|solutionrelative:verticalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|c:\\users\\olga_\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop_course\\elective\\oop_elective\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|solutionrelative:figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|c:\\users\\olga_\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop_course\\elective\\oop_elective\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E5B1C4-BF84-49A6-BBF0-1F1AF636E174}|OOP_elective.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +54,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\Figure.cs",
+              "RelativeDocumentMoniker": "Figure.cs",
+              "ToolTip": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\Figure.cs",
+              "RelativeToolTip": "Figure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:28:56.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake.cs",
+              "ToolTip": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\Snake.cs",
+              "RelativeToolTip": "Snake.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:08:06.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerticalLine.cs",
+              "DocumentMoniker": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\VerticalLine.cs",
+              "RelativeDocumentMoniker": "VerticalLine.cs",
+              "ToolTip": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\VerticalLine.cs",
+              "RelativeToolTip": "VerticalLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:45:56.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HorizontalLine.cs",
+              "DocumentMoniker": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\HorizontalLine.cs",
+              "RelativeDocumentMoniker": "HorizontalLine.cs",
+              "ToolTip": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\HorizontalLine.cs",
+              "RelativeToolTip": "HorizontalLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:30:13.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyPoint.cs",
+              "DocumentMoniker": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\MyPoint.cs",
+              "RelativeDocumentMoniker": "MyPoint.cs",
+              "ToolTip": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\MyPoint.cs",
+              "RelativeToolTip": "MyPoint.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:06:57.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T19:30:32.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "C:\\Users\\olga_\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP_course\\Elective\\OOP_elective\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:14:58.675Z",
               "EditorCaption": ""
             }
           ]
