@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -9,7 +10,7 @@ namespace OOP_elective
 {
     class Snake : Figure
     {
-        Direction direction;
+        public Direction direction;
 
         public Snake(MyPoint tail, int lenght, Direction _direction) 
         {
@@ -41,6 +42,50 @@ namespace OOP_elective
             MyPoint nextMyPoint = new MyPoint(head);
             nextMyPoint.Move(1, direction);
             return nextMyPoint;
+        }
+
+        internal bool IsHitTail()
+        {
+            var head = pList.Last();
+            for (int i = 0; i < pList.Count - 2; i++)
+            {
+                if (head.IsHit(pList[i]))
+                    return true;
+            }
+            return false;
+        }
+
+        public void HandleKey(ConsoleKey key)
+        {
+            if (key == ConsoleKey.LeftArrow)
+            {
+                direction = Direction.LEFT;
+            }
+            else if (key == ConsoleKey.RightArrow)
+            {
+                direction = Direction.RIGHT;
+            }
+            else if (key == ConsoleKey.DownArrow)
+            {
+                direction = Direction.DOWN;
+            }
+            else if (key == ConsoleKey.UpArrow)
+            {
+                direction = Direction.UP;
+            }
+        }
+
+        internal bool Eat(MyPoint food)
+        {
+            MyPoint head = GetNextMyPoint();
+            if (head.IsHit(food))
+            {
+                food.sym = head.sym;
+                pList.Add(food);
+                return true;
+            }
+            else
+                return false;
         }
     }
 }

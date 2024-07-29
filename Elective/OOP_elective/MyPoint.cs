@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,11 +17,11 @@ namespace OOP_elective
         {            
         }
 
-        public MyPoint(int _x, int _y, char _sym)
+        public MyPoint(int x, int y, char sym)
         {
-            x = _x;
-            y = _y;
-            sym = _sym;
+            this.x = x;
+            this.y = y;
+            this.sym = sym;
         }
 
         public MyPoint(MyPoint p)
@@ -42,13 +43,20 @@ namespace OOP_elective
             }
             else if(direction == Direction.UP)
             {
-                y += offset;
+                y -= offset;
             }
             else if (direction == Direction.DOWN) 
             { 
-                y -= offset; 
+                y += offset; 
             }
         }
+
+
+        public bool IsHit(MyPoint p)
+        {
+            return p.x == this.x && p.y == this.y;
+        }
+
 
         public void Draw()
         {
