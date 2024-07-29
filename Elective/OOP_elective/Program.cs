@@ -26,10 +26,27 @@ class Program
         MyPoint p = new MyPoint(4, 5, '*');
         Snake snake = new Snake(p, 4, Direction.RIGHT);
         snake.Draw();
+        snake.Move();
+        Thread.Sleep(100); // задержка вывода следующего действия на определенное количество времени
+        snake.Move();
+        Thread.Sleep(100);
+        snake.Move();
+        Thread.Sleep(100);
+        snake.Move();
+        Thread.Sleep(100);
+        snake.Move();
+        Thread.Sleep(100);
+        snake.Move();
+        Thread.Sleep(100);
+        snake.Move();
+        Thread.Sleep(100);
+        snake.Move();
+        Thread.Sleep(100);
+        snake.Move();
+        Thread.Sleep(100);
 
-        
 
-        Console.ReadLine();
+        // Console.ReadLine();
 
 
     }

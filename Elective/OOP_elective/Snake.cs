@@ -9,8 +9,11 @@ namespace OOP_elective
 {
     class Snake : Figure
     {
-        public Snake(MyPoint tail, int lenght, Direction direction) 
-        { 
+        Direction direction;
+
+        public Snake(MyPoint tail, int lenght, Direction _direction) 
+        {
+            direction = _direction;
             pList = new List<MyPoint>();
 
             for (int i = 0; i < lenght; i++)
@@ -19,6 +22,25 @@ namespace OOP_elective
                 p.Move(i, direction);
                 pList.Add(p);
             }
+        }
+
+        internal void Move()
+        {
+            MyPoint tail = pList.First();
+            pList.Remove(tail);
+            MyPoint head = GetNextMyPoint();
+            pList.Add(head);
+
+            tail.Clear();
+            head.Draw();
+        }
+
+        public MyPoint GetNextMyPoint()
+        {
+            MyPoint head = pList.Last();
+            MyPoint nextMyPoint = new MyPoint(head);
+            nextMyPoint.Move(1, direction);
+            return nextMyPoint;
         }
     }
 }
