@@ -49,4 +49,4 @@
 13. [Урок 13. Класс «Препятствия». Полиморфизм](https://github.com/olgashenkel/OOP_course/blob/master/Elective/OOP_elective/Program.cs)
 14. [Урок 14. Приключенческий боевик «Добыть еду, уйти от препятствий»](https://github.com/olgashenkel/OOP_course/blob/master/Elective/OOP_elective/Program.cs)
 15. [Урок 15. Итоги](https://github.com/olgashenkel/OOP_course/blob/master/Elective/OOP_elective/Program.cs)
-Примечание. [Исходный код преподавателя курса](https://github.com/olgashenkel/OOP_course/tree/master/Elective/snake-master)
+16. ***Примечание. [Исходный код преподавателя курса](https://github.com/olgashenkel/OOP_course/tree/master/Elective/snake-master)***
