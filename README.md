@@ -18,7 +18,7 @@
    * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
 2. [Урок 2. Принципы ООП Абстракция и интерфейсы. Пример проектирования](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_2/Seminar_2/src)
    * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
-3. [Урок 3. Некоторые стандартные интерфейсы Java и примеры их использования](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_2/Seminar_3/src)
+3. [Урок 3. Некоторые стандартные интерфейсы Java и примеры их использования](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_3/src/study_group)
    * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
 <!--    4. [Урок 4. ООП: Обобщения. ч1](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_4/Seminar_3/src)
    * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
