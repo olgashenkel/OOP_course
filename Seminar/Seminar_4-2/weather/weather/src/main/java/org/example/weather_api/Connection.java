@@ -8,7 +8,7 @@ public class Connection {
 
     //Зарегистрируйтесь на сайте weatherstack.com и получите свой ключ при использовании заменить!
     private static final String apiKey = "ec*****************";
-    //http://api.weatherstack.com/current?access_key=eceae5bae9142cc79ef4bb4199703b7f&query=moscow
+    //http://api.weatherstack.com/current?access_key=ec*****************&query=moscow
 
     public String getJson(String city) throws Exception{
         StringBuilder stringBuilder = new StringBuilder();
