@@ -20,7 +20,7 @@
    * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
 3. [Урок 3. Некоторые стандартные интерфейсы Java и примеры их использования](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_3/src/study_group)
    * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
-4. [Урок 4. ООП: Обобщения. ч1](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_4/src)
+4. Урок 4. ООП: Обобщения. ч1 ([Практическая работа № 1](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_4/src/study_group), [Практическая работа № 2](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_4-2/weather/weather/src/main/java/org/example))
    * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
 <!--    5. [Урок 5. От простого к практике](https://github.com/olgashenkel/OOP_course/tree/master/Seminar/Seminar_5/Seminar_3/src)
    * [Домашнее задание](https://github.com/olgashenkel/homeWork/tree/master/src)
