@@ -5,8 +5,8 @@
 2. [Урок 2. Принципы ООП Абстракция и интерфейсы. Пример проектирования](https://github.com/olgashenkel/OOP_course/tree/master/Lesson/Lesson_2)
 3. [Урок 3. Некоторые стандартные интерфейсы Java и примеры их использования](https://github.com/olgashenkel/OOP_course/tree/master/Lesson/Lesson_3/src)
 4. [Урок 4. ООП: Обобщения](https://github.com/olgashenkel/OOP_course/tree/master/Lesson/Lesson_4/src)
-<!-- 5. [Урок 5. ООП: От простого к практике](https://github.com/olgashenkel/OOP_course/tree/master/Lesson/Lesson_5/src)
-6. [Урок 6. SOLID](https://github.com/olgashenkel/OOP_course/tree/master/Lesson/Lesson_6/src)
+5. [Урок 5. ООП: От простого к практике](https://github.com/olgashenkel/OOP_course/tree/master/Lesson/Lesson_5/src)
+<!-- 6. [Урок 6. SOLID](https://github.com/olgashenkel/OOP_course/tree/master/Lesson/Lesson_6/src)
 7. [Урок 6. Есть ли жизнь без Java?](https://github.com/olgashenkel/OOP_course/tree/master/Lesson/Lesson_7/src) -->
 
 ---
